@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 28 10:53:40 CEST 2017
+http\://192.168.1.132\:8081/repository/saverio-personal/.lastUpdated=1498640020372
+http\://192.168.1.120\:8081/repository/saverio-personal/.error=
+@default-saverio-personal-http\://192.168.1.120\:8081/repository/maven-central-1/.lastUpdated=1498490929504
+http\://192.168.1.120\:8081/repository/saverio-personal/.lastUpdated=1498638262789
+http\://192.168.1.120\:8081/repository/maven-central-1/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.3 from/to saverio-personal (http\://192.168.1.120\:8081/repository/maven-central-1/)\: Failed to transfer file\: http\://192.168.1.120\:8081/repository/maven-central-1/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom. Return code is\: 502 , ReasonPhrase\:Bad Gateway.

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 26 15:34:17 CEST 2017
+@default-Maven-Central-http\://192.168.1.120\:8081/repository/maven-central/.lastUpdated=1498484057525
+http\://192.168.1.120\:8081/repository/maven-central/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to Maven-Central (http\://192.168.1.120\:8081/repository/maven-central/)\: Failed to transfer file\: http\://192.168.1.120\:8081/repository/maven-central/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom. Return code is\: 502 , ReasonPhrase\:Bad Gateway.

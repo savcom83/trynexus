@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 28 11:00:00 CEST 2017
+maven-filtering-1.1.pom>saverio-personal=
+maven-filtering-1.1.pom>neodata-repo=
+maven-filtering-1.1.jar>neodata-repo=
+maven-filtering-1.1.jar>saverio-personal=
