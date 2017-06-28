@@ -8,6 +8,7 @@
   	<connection>scm:git:https://github.com/savcom83/trynexus.git</connection>
   	<developerConnection>scm:git:https://github.com/savcom83/trynexus.git</developerConnection>
   	<url>scm:git:https://github.com/savcom83/trynexus</url>
+    <tag>TryNexus-0.0.1</tag>
   </scm>
   
   <repositories>
